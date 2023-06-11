@@ -1,0 +1,40 @@
+1. Crear vista a partir de la consulta:
+db.albumes.aggregate([
+  { $lookup: {
+      from: "artistas",
+      localField: "artista_id",
+      foreignField: "_id",
+      as: "info_artista"
+    }
+  },
+  { $unwind: "$info_artista" }
+])
+
+db.createView("vista_albumes_artistas", "albumes", [
+  { $lookup: {
+      from: "artistas",
+      localField: "artista_id",
+      foreignField: "_id",
+      as: "info_artista"
+    }
+  },
+  { $unwind: "$info_artista" }
+])
+
+
+
+2. Crear vista juegos Dark Souls
+db.createView("vista_juegos_dark_souls", "juegosp1", [
+  { $match: { titulo: /Dark Souls/ } }
+])
+
+
+3. Vista que oculte ciertos datos de los juegos
+db.createView("vista_juegos_2", "juegosp1", [
+  { $project: { _id: 0, titulo: 1, genero: 1, plataformas: 1, fecha_lanzamiento: 1 } }
+])
+
+4. Vista que oculte ciertos datos de los artistas
+db.createView("vista_artistas", "artistas", [
+  { $project: { _id: 0, albumes: 0 } }
+])

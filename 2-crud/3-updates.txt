@@ -1,0 +1,18 @@
+1. Cambiar el precio de Resident Evil Village a 30:
+db.juegosp1.updateOne(
+  { titulo: "Resident Evil Village" },
+  { $set: { precio: 30 } }
+)
+
+2. Multiplicar el precio de todos los juegos desarrollados por Nintendo EPD en un 10% (multiplicar por 1.1)
+db.juegosp1.updateMany(
+  { "desarrollador.nombre": "Nintendo EPD" },
+  { $mul: { precio: 1.1 } }
+)
+
+
+3. Añadir una nueva plataforma al juego Portal 2:
+db.juegosp1.updateOne(
+  { titulo: "Portal 2" },
+  { $push: { plataformas: "PlayStation 5" } }
+)

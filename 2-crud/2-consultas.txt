@@ -1,0 +1,150 @@
+1. Datos del videojuego "Dark Souls"
+db.juegosp1.find({titulo: "Dark Souls"})
+
+
+
+2. Obtener todos los juegos que pertenecen al género "RPG" ordenados por titulo de forma descendente:
+db.juegosp1.find({genero: {$eq: "RPG"}}).sort({titulo: -1})
+
+
+
+3. Buscar juegos que estén disponibles para la consola Nintendo Switch o PC:
+db.juegosp1.find({plataformas: {$in: ["Nintendo Switch", "PC"]}})
+
+
+
+4. Buscar juegos que estén disponibles para la consola Nintendo Switch y PC:
+db.juegosp1.find({ plataformas: { $all: ["PC", "Nintendo Switch"] } })
+
+
+
+5. Buscar juegos que no estén disponibles para las consolas Xbox 360 o PlayStation 4:
+db.juegosp1.find({plataformas: {$nin: ["Xbox 360", "PlayStation 4"]}})
+
+
+
+6. Obtener todos los juegos desarrollados por "FromSoftware" y que estén disponibles para la plataforma "PlayStation 4", con un precio igual o mayor a 50 y un solo modo de juego:
+db.juegosp1.find({ 
+  "desarrollador.nombre": "FromSoftware", 
+  "plataformas": "PlayStation 4" , 
+  "precio": { $gte: 50 }, 
+  modos_juego: {$size:1}
+})
+
+
+
+7. Muestra la información de los álbumes junto con la de su respectivo artista, para los artistas del genero “Hardcore punk”. 
+db.albumes.aggregate([
+  { $lookup: {
+      from: "artistas",
+      localField: "artista_id",
+      foreignField: "_id",
+      as: "info_artista"
+    }
+  },
+  { $unwind: "$info_artista" },
+  { $match: { "info_artista.generos": "Hardcore punk" } }
+])
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+8. Mostrar los juegos que esten disponibles en GameCube o que tengan un precio menor a 8:
+db.juegosp1.find({
+  $or: [
+    { plataformas: "Nintendo GameCube" },
+    { precio: { $lt: 8 } }
+  ]
+})
+
+9. Mostrar los juegos que no esten disponibles ni en PC ni en PS5:
+db.juegosp1.find({
+  $nor: [
+    {plataformas: "PC"},
+    {plataformas: "PlayStation 5"}
+  ]
+})
+
+10. Mostrar los juegos que no sean de genero RPG, Accion o Plataformas:
+db.juegosp1.find({
+    genero: {
+        $not: {
+            $in: ["RPG", "Acción", "Plataformas"]
+        }
+    }
+})
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11. Sumar el precio de todos los juegos de Capcom:
+db.juegosp1.aggregate([
+  {$match: {"desarrollador.nombre": "Capcom"}},
+  {$group: {_id: null, total: {$sum: "$precio"}}}
+])
+
+12. Mostar el precio medio de los juegos de cada desarrollador
+db.juegosp1.aggregate([
+  { $group: { _id: "$desarrollador.nombre", precioMedio: { $avg: "$precio" } } }
+])
+
+13. Para los juegos de GameCube, restar al precio mas alto el mas bajo:
+db.juegosp1.aggregate([
+  { $match: { plataformas: "Nintendo GameCube" } },
+  { $group: { _id: null, precioMax: { $max: "$precio" }, precioMin: { $min: "$precio" } } },
+  { $addFields: {diferenciaPrecio: { $subtract: ["$precioMax", "$precioMin"] } } }
+])
+
+14. Para los juegos de PS2, multiplicar el precio mas alto por 2:
+db.juegosp1.aggregate([
+  { $match: { plataformas: "PlayStation 2" } },
+  { $group: { _id: null, precioMax: { $max: "$precio" } } },
+  { $addFields: {precioMaxX2: { $multiply: ["$precioMax", 2] } } }
+])
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+15. Obtener todos los juegos lanzados entre 2018 y 2022:
+db.juegosp1.find({
+  fecha_lanzamiento: {
+    $gte: new Date("2018-01-01"),
+    $lte: ISODate("2022-12-31")
+  }
+})
+
+16. Obtener los juegos que aun no han sido lanzados:
+db.juegosp1.find({ fecha_lanzamiento: { $gt: new Date() } })
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+17. Obtener todos los juegos que contengan la palabra "fantasía" en la descripción:
+db.juegosp1.find({descripcion: {$regex: /fantasía/i}})
+db.juegosp1.find({descripcion: /fantasía/i})
+
+18. Buscar los juegos cuyo tiutlo empiece por S o T:
+db.juegosp1.find({titulo: {$regex: /^(S|T)/i}})
+
+19. Buscar los juegos cuyo tiutlo termine en s:
+db.juegosp1.find({titulo: {$regex: /s$/i}})
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+20. Precio promedio de los juegos lanzados entre el 1 de enero de 2020 y el 31 de diciembre de 2022, cuya descripción contenga la palabra "aventura" y que estén disponibles en las plataformas "PlayStation 4" o "PC".
+
+
+
+db.juegosp1.aggregate([
+  {
+    $match: {
+      $and: [
+        { fecha_lanzamiento: { $gte: ISODate("2020-01-01"), $lte: ISODate("2022-12-31") } },
+        { descripcion: { $regex: /aventura/i } },
+        { plataformas: { $in: ["PlayStation 4", "PC"] } }
+      ]
+    }
+  },
+  {
+    $group: {
+      _id: null,
+      precioPromedio: { $avg: "$precio" }
+    }
+  }
+])

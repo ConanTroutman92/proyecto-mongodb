@@ -1,0 +1,18 @@
+1. Eliminar el juego The Last of Us:
+db.juegosp1.deleteOne({titulo: "The Last of Us"})
+
+
+2. Eliminar todos los juegos de la plataforma Dreamcast:
+db.juegosp1.deleteMany({plataformas: "Dreamcast"})
+
+
+3. Eliminar todos los juegos con un precio menor a 10:
+db.juegosp1.deleteMany({precio: {$lt: 10}})
+
+
+4. Eliminar coleccion juegosp1:
+db.juegosp1.drop()
+
+
+5. Eliminar la base de datos actual:
+db.dropDatabase()

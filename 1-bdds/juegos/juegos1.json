@@ -1,0 +1,3142 @@
+[{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e12"
+  },
+  "titulo": "Dark Souls",
+  "desarrollador": {
+    "nombre": "FromSoftware",
+    "pais": "Japón"
+  },
+  "genero": [
+    "RPG",
+    "Acción"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "descripcion": "Dark Souls es un RPG de acción en tercera persona, que se caracteriza por una atmósfera oscura y una dificultad muy por encima de los estándares actuales. El juego recibió excelentes críticas debido a su jugabilidad desafiante, su atmósfera absorbente, sus controles prácticos y a su innovador modo multijugador, la mayoría de estos aspectos importados de su predecesor espiritual Demon's Souls. ",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2011-09-22T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Japonés",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e13"
+  },
+  "titulo": "The Last of Us",
+  "desarrollador": {
+    "nombre": "Naughty Dog",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Aventura",
+    "Survival Horror"
+  ],
+  "plataformas": [
+    "PlayStation 3",
+    "PlayStation 4"
+  ],
+  "descripcion": "The Last of Us es un juego de aventuras y survival horror desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. El juego se desarrolla en un mundo post-apocalíptico en el que el jugador controla a Joel, un hombre que trata de sobrevivir en un mundo poblado por peligrosos infectados y otros sobrevivientes. El juego es conocido por su historia emocionante y su jugabilidad innovadora.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2013-06-14T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués",
+      "Ruso",
+      "Polaco"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués",
+      "Ruso",
+      "Polaco"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e14"
+  },
+  "titulo": "The Last of Us Part II",
+  "desarrollador": {
+    "nombre": "Naughty Dog",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Acción",
+    "Aventura",
+    "Survival horror"
+  ],
+  "plataformas": [
+    "PlayStation 4",
+    "PlayStation 5"
+  ],
+  "descripcion": "The Last of Us Part II es un juego de acción y aventura de survival horror en tercera persona desarrollado por Naughty Dog y publicado por Sony Interactive Entertainment. Es la secuela del juego The Last of Us y sigue la historia de Ellie en un mundo post-apocalíptico lleno de infectados y peligrosos grupos de sobrevivientes. El juego recibió elogios por su jugabilidad, narrativa, gráficos y diseño de sonido.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2020-06-19T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Ruso",
+      "Japonés",
+      "Portugués",
+      "Chino"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Ruso",
+      "Japonés",
+      "Portugués",
+      "Chino"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e15"
+  },
+  "titulo": "Resident Evil Village",
+  "desarrollador": {
+    "nombre": "Capcom",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Survival horror"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X"
+  ],
+  "descripcion": "Resident Evil Village es un videojuego de survival horror en primera persona desarrollado y publicado por Capcom. Es la secuela directa de Resident Evil 7 y continua la historia de Ethan Winters, quien debe enfrentarse a criaturas aterradoras y misteriosos personajes en un pueblo europeo en busca de su hija secuestrada.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2021-05-07T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Japonés",
+      "Portugués",
+      "Ruso",
+      "Chino"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Japonés",
+      "Portugués",
+      "Ruso",
+      "Chino"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e16"
+  },
+  "titulo": "Metroid Prime",
+  "desarrollador": {
+    "nombre": "Retro Studios",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "Nintendo GameCube",
+    "Nintendo Wii"
+  ],
+  "descripcion": "Metroid Prime es un juego de acción y aventura en primera persona desarrollado por Retro Studios y publicado por Nintendo. Es la continuación de la saga Metroid en tercera dimensión, y la primera vez que Samus Aran es presentada en un juego de primera persona. La historia se desarrolla en el planeta Tallon IV, en donde Samus debe investigar los orígenes de una peligrosa amenaza conocida como Phazon. El juego es famoso por su innovador sistema de apuntado con el Wii Remote en la versión de Wii, así como por su jugabilidad y exploración.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2002-11-18T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e17"
+  },
+  "titulo": "Portal",
+  "desarrollador": {
+    "nombre": "Valve Corporation",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Puzzle",
+    "Plataformas"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "descripcion": "Portal es un videojuego de puzzle y plataformas en primera persona desarrollado y publicado por Valve Corporation. El juego se centra en el uso del 'Dispositivo de Portales de Aperture Science', una herramienta que permite al jugador crear portales entre dos planos en el espacio tridimensional. El jugador controla a Chell, quien es desafiada por la inteligencia artificial GLaDOS para completar una serie de puzzles mientras se adentra en el interior de una instalación de Aperture Science.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "2007-10-10T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Ruso",
+      "Japonés",
+      "Coreano",
+      "Polaco",
+      "Portugués"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Ruso",
+      "Japonés",
+      "Coreano",
+      "Polaco",
+      "Portugués"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e18"
+  },
+  "titulo": "Portal 2",
+  "desarrollador": {
+    "nombre": "Valve Corporation",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Puzzle",
+    "Plataformas"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "descripcion": "Portal 2 es un videojuego de puzzle y plataformas en primera persona desarrollado y publicado por Valve Corporation. Es la secuela de Portal y continúa la historia de Chell, quien debe enfrentarse a GLaDOS y Wheatley mientras resuelve puzzles usando un dispositivo de portales.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2011-04-19T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Ruso",
+      "Japonés",
+      "Coreano",
+      "Polaco",
+      "Portugués"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Ruso",
+      "Japonés",
+      "Coreano",
+      "Polaco",
+      "Portugués"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e19"
+  },
+  "titulo": "The Legend of Zelda: Breath of the Wild",
+  "desarrollador": {
+    "nombre": "Nintendo EPD",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "Nintendo Switch",
+    "Wii U"
+  ],
+  "descripcion": "The Legend of Zelda: Breath of the Wild es un juego de acción-aventura de mundo abierto desarrollado y publicado por Nintendo para Nintendo Switch y Wii U. El juego se desarrolla en un vasto mundo abierto y presenta elementos de supervivencia y un sistema de física interactivo. El jugador controla a Link y debe explorar el mundo para encontrar a los cuatro pilares divinos necesarios para derrotar a Calamity Ganon, la fuerza malvada que amenaza el reino de Hyrule.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2017-03-03T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Japonés",
+      "Coreano",
+      "Ruso",
+      "Chino Simplificado"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e1a"
+  },
+  "titulo": "Super Mario Odyssey",
+  "desarrollador": {
+    "nombre": "Nintendo EPD",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Plataformas",
+    "Aventura"
+  ],
+  "plataformas": [
+    "Nintendo Switch"
+  ],
+  "descripcion": "Super Mario Odyssey es un juego de plataformas y aventuras desarrollado y publicado por Nintendo para la consola Nintendo Switch. El jugador controla a Mario mientras viaja a través de varios reinos en un intento de salvar a la Princesa Peach del matrimonio forzado con Bowser. El juego presenta mecánicas de juego innovadoras, como la capacidad de lanzar el sombrero de Mario y capturar temporalmente ciertos personajes y objetos.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2017-10-27T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Japonés",
+      "Chino",
+      "Coreano",
+      "Holandés",
+      "Portugués",
+      "Ruso"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e1b"
+  },
+  "titulo": "The Witcher 3: Wild Hunt",
+  "desarrollador": {
+    "nombre": "CD Projekt Red",
+    "pais": "Polonia"
+  },
+  "genero": [
+    "RPG",
+    "Acción"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "descripcion": "The Witcher 3: Wild Hunt es un juego de rol de mundo abierto en tercera persona desarrollado por CD Projekt Red. El juego es la tercera entrega de la serie The Witcher y se basa en la serie de libros del mismo nombre del autor polaco Andrzej Sapkowski. El jugador controla al cazador de monstruos Geralt de Rivia mientras viaja a través de un mundo abierto y peligroso, luchando contra monstruos y cumpliendo misiones. ",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2015-05-19T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Polaco"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Polaco",
+      "Alemán",
+      "Italiano",
+      "Ruso",
+      "Japonés",
+      "Portugués",
+      "Checo",
+      "Húngaro",
+      "Turco",
+      "Árabe",
+      "Chino"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e1c"
+  },
+  "titulo": "The Witcher",
+  "desarrollador": {
+    "nombre": "CD Projekt RED",
+    "pais": "Polonia"
+  },
+  "genero": [
+    "RPG",
+    "Acción"
+  ],
+  "plataformas": [
+    "PC"
+  ],
+  "descripcion": "The Witcher es un videojuego de rol y acción desarrollado por CD Projekt RED y publicado por Atari. El juego está basado en la serie de novelas del mismo nombre escritas por Andrzej Sapkowski. El jugador asume el papel de Geralt de Rivia, un cazador de monstruos que busca a una misteriosa mujer llamada Yennefer de Vengerberg mientras se ve envuelto en una compleja trama política.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "2007-10-26T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Polaco"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Polaco",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Ruso"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e1d"
+  },
+  "titulo": "The Witcher 2: Assassins of Kings",
+  "desarrollador": {
+    "nombre": "CD Projekt RED",
+    "pais": "Polonia"
+  },
+  "genero": [
+    "RPG",
+    "Acción"
+  ],
+  "plataformas": [
+    "PC",
+    "Xbox 360"
+  ],
+  "descripcion": "The Witcher 2: Assassins of Kings es un juego de rol de acción en tercera persona desarrollado por CD Projekt RED. El juego sigue la historia del cazador de monstruos Geralt de Rivia mientras investiga el asesinato de un rey y se ve envuelto en una trama política y bélica. El juego recibió elogios por su complejo sistema de elecciones y consecuencias, su narrativa madura, su música y su jugabilidad desafiante.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2011-05-17T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Polaco"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Polaco",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e1e"
+  },
+  "titulo": "Dark Souls II",
+  "desarrollador": {
+    "nombre": "FromSoftware",
+    "pais": "Japón"
+  },
+  "genero": [
+    "RPG",
+    "Acción"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "descripcion": "Dark Souls II es un RPG de acción en tercera persona que sigue el estilo del primer juego de la saga. La jugabilidad es desafiante y requiere habilidad para sobrevivir, y la atmósfera es oscura y opresiva. El juego introduce nuevos sistemas como la maldición y la adaptabilidad, y cuenta con un modo multijugador que permite a los jugadores invadirse entre sí.",
+  "precio": 39.99,
+  "fecha_lanzamiento": {
+    "$date": "2014-03-11T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Polaco",
+      "Ruso"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e1f"
+  },
+  "titulo": "Dark Souls III",
+  "desarrollador": {
+    "nombre": "FromSoftware",
+    "pais": "Japón"
+  },
+  "genero": [
+    "RPG",
+    "Acción"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "descripcion": "Dark Souls III es un RPG de acción en tercera persona, que continúa la tradición de la serie de desafiar al jugador a través de su dificultad, una atmósfera oscura y una jugabilidad desafiante. El juego presenta una variedad de armas y magias, así como un sistema de combate mejorado, y una historia envolvente que une los mundos de los dos primeros juegos de la serie. ",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2016-04-12T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Japonés",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e20"
+  },
+  "titulo": "The Legend of Zelda: A Link to the Past",
+  "desarrollador": {
+    "nombre": "Nintendo EAD",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "Super Nintendo Entertainment System",
+    "Game Boy Advance"
+  ],
+  "descripcion": "The Legend of Zelda: A Link to the Past es un videojuego de acción y aventura desarrollado y publicado por Nintendo en 1991 para la consola Super Nintendo Entertainment System. El juego cuenta la historia del joven héroe Link, quien debe rescatar a la Princesa Zelda y salvar al reino de Hyrule de la amenaza del malvado Ganon. A Link to the Past se ha convertido en uno de los juegos más icónicos de la franquicia de The Legend of Zelda, y es considerado uno de los mejores videojuegos de todos los tiempos.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "1991-11-21T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Japonés"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e21"
+  },
+  "titulo": "Red Dead Redemption 2",
+  "desarrollador": {
+    "nombre": "Rockstar Games",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "descripcion": "Red Dead Redemption 2 es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es la secuela del exitoso juego Red Dead Redemption y cuenta la historia de Arthur Morgan, un forajido que pertenece a una banda de ladrones en el Viejo Oeste. El juego se caracteriza por su mundo abierto, su sistema de honor y su modo de juego en línea.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2018-10-26T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Portugués",
+      "Japonés",
+      "Polaco",
+      "Chino"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e22"
+  },
+  "titulo": "Inside",
+  "desarrollador": {
+    "nombre": "Playdead",
+    "pais": "Dinamarca"
+  },
+  "genero": [
+    "Puzzle",
+    "Plataformas"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "descripcion": "Inside es un juego de plataformas y puzles en 2.5D desarrollado por Playdead. El jugador controla a un niño en un mundo extraño y opresivo, resolviendo acertijos mientras evita obstáculos y peligros mortales. Inside fue muy bien recibido por su diseño de sonido, sus visuales oscuros y su narrativa evocadora y misteriosa.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2016-06-29T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Español",
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Noruego",
+      "Portugués",
+      "Ruso",
+      "Chino simplificado",
+      "Chino tradicional",
+      "Japonés",
+      "Coreano"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e23"
+  },
+  "titulo": "Limbo",
+  "desarrollador": {
+    "nombre": "Playdead",
+    "pais": "Dinamarca"
+  },
+  "genero": [
+    "Puzzle",
+    "Plataformas"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "descripcion": "Limbo es un juego de puzzle y plataformas en el que el jugador controla a un niño que busca a su hermana en un mundo oscuro y peligroso. El juego se destaca por su atmósfera única, sus gráficos en blanco y negro y su jugabilidad desafiante.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "2010-07-21T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": null,
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués",
+      "Ruso",
+      "Japonés",
+      "Coreano",
+      "Chino"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e24"
+  },
+  "titulo": "Max Payne",
+  "desarrollador": {
+    "nombre": "Remedy Entertainment",
+    "pais": "Finlandia"
+  },
+  "genero": [
+    "Acción"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 2",
+    "Xbox"
+  ],
+  "descripcion": "Max Payne es un juego de acción en tercera persona que se centra en la venganza del detective homónimo por el asesinato de su familia. La jugabilidad se caracteriza por el uso de 'bullet time' para simular la ralentización del tiempo, lo que permite al jugador esquivar balas y realizar tiros precisos en cámara lenta. La historia se desarrolla a través de una narración no lineal y cómic-like que ha influido en la presentación de muchas historias de videojuegos posteriores.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "2001-07-23T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e25"
+  },
+  "titulo": "Max Payne 2: The Fall of Max Payne",
+  "desarrollador": {
+    "nombre": "Remedy Entertainment",
+    "pais": "Finlandia"
+  },
+  "genero": [
+    "Acción"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 2",
+    "Xbox"
+  ],
+  "descripcion": "Max Payne 2 es un juego de acción en tercera persona que continúa la historia del detective Max Payne. El juego incluye nuevos movimientos y habilidades, un motor gráfico mejorado y una historia emocionalmente cargada. El jugador asume el control de Max Payne mientras se adentra en una conspiración que involucra a su ex compañero, la mafia y una misteriosa asesina. ",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "2003-10-14T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Español"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e26"
+  },
+  "titulo": "Alan Wake",
+  "desarrollador": {
+    "nombre": "Remedy Entertainment",
+    "pais": "Finlandia"
+  },
+  "genero": [
+    "Acción",
+    "Survival horror"
+  ],
+  "plataformas": [
+    "PC",
+    "Xbox 360"
+  ],
+  "descripcion": "Alan Wake es un juego de acción y aventura con elementos de survival horror, desarrollado por Remedy Entertainment. El jugador toma el control de Alan Wake, un escritor de novelas de terror que se encuentra atrapado en su propia obra. Con la ayuda de una linterna y un arsenal de armas, Wake lucha contra las criaturas oscuras que lo persiguen mientras intenta resolver el misterio detrás de su desaparición.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2010-05-14T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Español"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e27"
+  },
+  "titulo": "Alan Wake 2",
+  "desarrollador": {
+    "nombre": "Remedy Entertainment",
+    "pais": "Finlandia"
+  },
+  "genero": [
+    "Acción",
+    "Survival horror"
+  ],
+  "plataformas": [
+    "PlayStation 5",
+    "Xbox Series X",
+    "PC"
+  ],
+  "descripcion": "Alan Wake 2 es una secuela del juego original, que sigue la historia de Alan Wake, un escritor de éxito que lucha contra las fuerzas sobrenaturales que lo rodean. La jugabilidad se centra en la exploración, la resolución de acertijos y la lucha contra enemigos. La trama se desarrolla en un mundo de terror psicológico que evoca la sensación de estar en una novela de Stephen King.",
+  "precio": 69.99,
+  "fecha_lanzamiento": {
+    "$date": "2023-10-31T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e28"
+  },
+  "titulo": "Control",
+  "desarrollador": {
+    "nombre": "Remedy Entertainment",
+    "pais": "Finlandia"
+  },
+  "genero": [
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "descripcion": "Control es un juego de acción y aventura en tercera persona con elementos de ciencia ficción. El jugador asume el papel de Jesse Faden, la nueva directora del Federal Bureau of Control (FBC), una organización secreta encargada de investigar y contener fenómenos paranormales. Jesse debe explorar el edificio de la sede del FBC, el Oldest House, para encontrar respuestas sobre su pasado y el de la organización.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2019-08-27T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Portugués"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e29"
+  },
+  "titulo": "Rocket League",
+  "desarrollador": {
+    "nombre": "Psyonix",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Deportes",
+    "Conducción"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "descripcion": "Rocket League es un juego de deportes futurista que combina la conducción y el fútbol, en el que los jugadores controlan coches propulsados por cohetes y compiten en partidos de fútbol. El juego es conocido por su jugabilidad adictiva, su excelente diseño de niveles y su estilo de arte colorido y futurista.",
+  "precio": 0,
+  "fecha_lanzamiento": {
+    "$date": "2015-07-07T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués",
+      "Ruso",
+      "Japonés",
+      "Coreano",
+      "Chino tradicional",
+      "Chino simplificado"
+    ]
+  },
+  "modos_juego": [
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e2a"
+  },
+  "titulo": "Sea of Thieves",
+  "desarrollador": {
+    "nombre": "Rare",
+    "pais": "Reino Unido"
+  },
+  "genero": [
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PC",
+    "Xbox One",
+    "Xbox Series X"
+  ],
+  "descripcion": "Sea of Thieves es un juego de acción y aventuras en el que los jugadores se convierten en piratas que navegan por un vasto océano, descubren islas, luchan contra otros piratas y buscan tesoros legendarios. El juego es conocido por su estilo de arte colorido y su enfoque en el juego cooperativo y en línea.",
+  "precio": 39.99,
+  "fecha_lanzamiento": {
+    "$date": "2018-03-20T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Español",
+      "Inglés",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Portugués",
+      "Japonés",
+      "Coreano",
+      "Chino"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e2b"
+  },
+  "titulo": "Counter-Strike: Global Offensive",
+  "desarrollador": {
+    "nombre": "Valve Corporation",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Shooter en primera persona"
+  ],
+  "plataformas": [
+    "PC"
+  ],
+  "descripcion": "Counter-Strike: Global Offensive es un juego de disparos en primera persona en el que dos equipos, terroristas y antiterroristas, se enfrentan en varios modos de juego. El juego se centra en la estrategia, el trabajo en equipo y la precisión en la puntería. Cuenta con diferentes armas, mapas y modos de juego que hacen que cada partida sea única. ",
+  "precio": 0,
+  "fecha_lanzamiento": {
+    "$date": "2012-08-21T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Japonés",
+      "Coreano",
+      "Polaco",
+      "Portugués",
+      "Ruso",
+      "Chino simplificado",
+      "Chino tradicional",
+      "Turco",
+      "Tailandés"
+    ]
+  },
+  "modos_juego": [
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e2c"
+  },
+  "titulo": "Apex Legends",
+  "desarrollador": {
+    "nombre": "Respawn Entertainment",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Battle Royale",
+    "FPS"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X",
+    "Nintendo Switch"
+  ],
+  "descripcion": "Apex Legends es un Battle Royale en primera persona en el que 60 jugadores se enfrentan en una isla. Los jugadores forman equipos de tres y el objetivo es ser el último equipo en pie. El juego tiene personajes con habilidades únicas que pueden marcar la diferencia en la partida. Los jugadores pueden encontrar armas y equipo por el mapa para mejorar su equipamiento y tener más posibilidades de ganar.",
+  "precio": 0,
+  "fecha_lanzamiento": {
+    "$date": "2019-02-04T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Portugués",
+      "Ruso",
+      "Chino",
+      "Japonés",
+      "Coreano"
+    ]
+  },
+  "modos_juego": [
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e2d"
+  },
+  "titulo": "The Legend of Zelda: Majora's Mask",
+  "desarrollador": {
+    "nombre": "Nintendo EAD",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Aventura",
+    "Acción"
+  ],
+  "plataformas": [
+    "Nintendo 64"
+  ],
+  "descripcion": "The Legend of Zelda: Majora's Mask es un juego de aventuras y acción desarrollado por Nintendo. El jugador controla al protagonista Link, quien debe detener a la luna de caer en tres días. Para hacerlo, el jugador debe recolectar máscaras y objetos, y utilizarlos para ayudar a los personajes del juego a resolver sus problemas. La mecánica de tiempo es un aspecto importante del juego, ya que el jugador tiene un tiempo limitado para completar ciertas tareas.",
+  "precio": 39.99,
+  "fecha_lanzamiento": {
+    "$date": "2000-04-27T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Japonés",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e2e"
+  },
+  "titulo": "Resident Evil",
+  "desarrollador": {
+    "nombre": "Capcom",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Survival horror"
+  ],
+  "plataformas": [
+    "PlayStation",
+    "PC",
+    "Sega Saturn"
+  ],
+  "descripcion": "Resident Evil es un videojuego de survival horror desarrollado por Capcom. Fue lanzado originalmente en 1996 para la PlayStation y ha sido relanzado en varias plataformas desde entonces. El juego sigue a un grupo de miembros del equipo de S.T.A.R.S. que investigan los eventos extraños que suceden en la mansión de los Spencer en las afueras de Raccoon City. La jugabilidad se centra en la exploración, el combate y la resolución de acertijos, mientras los jugadores luchan contra zombis y otros monstruos para descubrir la verdad detrás de los horrores que acechan en la mansión.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "1996-03-22T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e2f"
+  },
+  "titulo": "Resident Evil 2",
+  "desarrollador": {
+    "nombre": "Capcom",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Survival horror",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PlayStation",
+    "Nintendo 64",
+    "Dreamcast",
+    "PC"
+  ],
+  "descripcion": "Resident Evil 2 es un juego de survival horror y aventura desarrollado y publicado por Capcom en 1998. El juego se desarrolla dos meses después de los eventos del primer juego de la serie, en la ciudad ficticia de Raccoon City, durante un brote de zombis. Los jugadores pueden controlar a Leon S. Kennedy o Claire Redfield, quienes deben sobrevivir y escapar de la ciudad mientras luchan contra hordas de zombis y otras criaturas mutantes.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "1998-01-21T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Japonés",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e30"
+  },
+  "titulo": "Sonic the Hedgehog",
+  "desarrollador": {
+    "nombre": "Sonic Team",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Plataformas"
+  ],
+  "plataformas": [
+    "Sega Mega Drive",
+    "Sega Master System"
+  ],
+  "descripcion": "Sonic the Hedgehog es un videojuego de plataformas desarrollado por Sonic Team y publicado por Sega. Fue lanzado originalmente en 1991 para la consola Sega Genesis y ha sido relanzado en varias plataformas desde entonces. El juego sigue a Sonic, un erizo azul que corre a través de niveles llenos de obstáculos y enemigos para detener los planes del malvado Dr. Robotnik.",
+  "precio": 4.99,
+  "fecha_lanzamiento": {
+    "$date": "1991-06-23T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e31"
+  },
+  "titulo": "Sonic the Hedgehog 2",
+  "desarrollador": {
+    "nombre": "Sega Technical Institute",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Plataformas",
+    "Acción"
+  ],
+  "plataformas": [
+    "Sega Mega Drive",
+    "Master System"
+  ],
+  "descripcion": "Sonic the Hedgehog 2 es un videojuego de plataformas y acción desarrollado por Sega Technical Institute y publicado por Sega. Fue lanzado originalmente en 1992 para la consola Sega Genesis y posteriormente en otras plataformas. En el juego, los jugadores controlan a Sonic y a su nuevo amigo Tails en su lucha contra el malvado Dr. Robotnik y su nuevo ayudante, Metal Sonic. La jugabilidad se centra en la velocidad, la exploración y la recolección de anillos, mientras los jugadores intentan detener los planes malvados de Robotnik.",
+  "precio": 4.99,
+  "fecha_lanzamiento": {
+    "$date": "1992-11-21T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e32"
+  },
+  "titulo": "Sonic Adventure",
+  "desarrollador": {
+    "nombre": "Sonic Team",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Plataformas",
+    "Aventura"
+  ],
+  "plataformas": [
+    "Dreamcast",
+    "Nintendo GameCube",
+    "Xbox 360",
+    "PlayStation 3",
+    "PC"
+  ],
+  "descripcion": "Sonic Adventure es un videojuego de plataformas y aventuras desarrollado por Sonic Team y publicado por Sega. Fue lanzado en 1998 para la Dreamcast y es el primer juego de Sonic en 3D. El juego presenta seis personajes jugables, cada uno con su propia historia y estilo de juego único. La trama del juego sigue a Sonic y sus amigos mientras intentan detener al Dr. Eggman de conquistar el mundo.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "1998-12-23T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e33"
+  },
+  "titulo": "Sonic Adventure 2",
+  "desarrollador": {
+    "nombre": "Sonic Team",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Plataformas",
+    "Aventura"
+  ],
+  "plataformas": [
+    "Dreamcast",
+    "Nintendo GameCube",
+    "Xbox 360",
+    "PlayStation 3",
+    "PC"
+  ],
+  "descripcion": "Sonic Adventure 2 es un videojuego de plataformas y aventuras desarrollado por Sonic Team y publicado por Sega. Fue lanzado en 2001 para la Dreamcast y es la secuela de Sonic Adventure. El juego presenta dos historias diferentes, una protagonizada por Sonic y sus amigos, y la otra por el antagonista del juego, Shadow the Hedgehog. La trama del juego sigue a los personajes mientras intentan detener al Dr. Eggman de conquistar el mundo.",
+  "precio": 14.99,
+  "fecha_lanzamiento": {
+    "$date": "2001-06-19T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e34"
+  },
+  "titulo": "World of Warcraft",
+  "desarrollador": {
+    "nombre": "Blizzard Entertainment",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "MMORPG"
+  ],
+  "plataformas": [
+    "PC"
+  ],
+  "descripcion": "World of Warcraft es un MMORPG desarrollado y publicado por Blizzard Entertainment. Fue lanzado en 2004 y es el cuarto juego lanzado en el universo de Warcraft. El juego se desarrolla en el mundo ficticio de Azeroth, donde los jugadores pueden crear y personalizar sus propios personajes y explorar el mundo mientras realizan misiones y luchan contra enemigos controlados por la computadora y otros jugadores. World of Warcraft es uno de los juegos más populares en la historia de los videojuegos, con más de 100 millones de cuentas creadas desde su lanzamiento.",
+  "precio": 14.99,
+  "fecha_lanzamiento": {
+    "$date": "2004-11-23T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Español",
+      "Ruso",
+      "Chino"
+    ],
+    "textos": [
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Español",
+      "Ruso",
+      "Chino"
+    ]
+  },
+  "modos_juego": [
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e35"
+  },
+  "titulo": "Final Fantasy XIV",
+  "desarrollador": {
+    "nombre": "Square Enix",
+    "pais": "Japón"
+  },
+  "genero": [
+    "MMORPG"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5"
+  ],
+  "descripcion": "Final Fantasy XIV es un MMORPG desarrollado y publicado por Square Enix. Fue lanzado originalmente en 2010, pero luego fue relanzado en 2013 como Final Fantasy XIV: A Realm Reborn. El juego se desarrolla en el mundo ficticio de Eorzea, donde los jugadores pueden crear y personalizar sus propios personajes y explorar el mundo mientras realizan misiones y luchan contra enemigos controlados por la computadora y otros jugadores. Final Fantasy XIV ha recibido elogios de la crítica y es uno de los MMORPG más populares en la actualidad.",
+  "precio": 14.99,
+  "fecha_lanzamiento": {
+    "$date": "2010-09-30T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés",
+      "Francés",
+      "Alemán"
+    ],
+    "textos": [
+      "Inglés",
+      "Japonés",
+      "Francés",
+      "Alemán",
+      "Español"
+    ]
+  },
+  "modos_juego": [
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e36"
+  },
+  "titulo": "Final Fantasy XVI",
+  "desarrollador": {
+    "nombre": "Square Enix",
+    "pais": "Japón"
+  },
+  "genero": [
+    "RPG"
+  ],
+  "plataformas": [
+    "PlayStation 5",
+    "PC"
+  ],
+  "descripcion": "Final Fantasy XVI es un juego de rol en el que los jugadores toman el papel de un joven llamado Clive Rosfield, quien es el protector del Archiduque de Rosaria. La historia se desarrolla en el mundo de Valisthea, donde las naciones compiten por el poder de los Cristales Madre, una fuente de energía mágica que mantiene el equilibrio en el mundo. La jugabilidad se basa en un sistema de combate en tiempo real, en el que los jugadores pueden utilizar habilidades únicas y convocaciones para luchar contra enemigos y jefes épicos. La historia y los personajes están diseñados para ser más oscuros y maduros que en entregas anteriores de la serie.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2023-11-14T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e37"
+  },
+  "titulo": "Final Fantasy VI",
+  "desarrollador": {
+    "nombre": "Square",
+    "pais": "Japón"
+  },
+  "genero": [
+    "RPG"
+  ],
+  "plataformas": [
+    "Super Nintendo Entertainment System",
+    "PlayStation",
+    "Game Boy Advance"
+  ],
+  "descripcion": "Final Fantasy VI es un videojuego de rol desarrollado y publicado por Square Co., Ltd. para la Super Nintendo Entertainment System en 1994. El juego sigue a un grupo de personajes mientras intentan detener a un imperio malvado que busca controlar el mundo. Final Fantasy VI es conocido por su historia compleja y sus personajes bien desarrollados, así como por su sistema de juego innovador y su banda sonora icónica.",
+  "precio": 14.99,
+  "fecha_lanzamiento": {
+    "$date": "1994-04-02T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e38"
+  },
+  "titulo": "Final Fantasy VII",
+  "desarrollador": {
+    "nombre": "Square",
+    "pais": "Japón"
+  },
+  "genero": [
+    "RPG"
+  ],
+  "plataformas": [
+    "PlayStation",
+    "PC",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "descripcion": "Final Fantasy VII es un juego de rol desarrollado y publicado por Square Co., Ltd. para la PlayStation en 1997. El juego sigue a Cloud Strife, un mercenario que se une a un grupo de resistencia que lucha contra una megacorporación llamada Shinra. A medida que avanza el juego, Cloud y su grupo descubren una conspiración mucho mayor que amenaza con destruir el mundo. Final Fantasy VII es conocido por su historia compleja y emocional, su sistema de juego innovador y su banda sonora icónica.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "1997-01-31T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e39"
+  },
+  "titulo": "Tony Hawk Pro Skater 4",
+  "desarrollador": {
+    "nombre": "Neversoft",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Deportes",
+    "Skateboarding"
+  ],
+  "plataformas": [
+    "PlayStation",
+    "Nintendo 64",
+    "PC"
+  ],
+  "descripcion": "Tony Hawk's Pro Skater 4 es un videojuego de deportes desarrollado por Neversoft y publicado por Activision. Es la cuarta entrega de la serie Tony Hawk's Pro Skater y se centra en el skateboarding. El juego cuenta con modos de un solo jugador y multijugador, y permite a los jugadores completar objetivos en un entorno de mundo abierto. Los jugadores pueden desbloquear nuevos trucos y skaters a medida que avanzan en el juego.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2002-10-23T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e3a"
+  },
+  "titulo": "Tony Hawk's Underground 2",
+  "desarrollador": {
+    "nombre": "Neversoft",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Deportes",
+    "Skateboarding"
+  ],
+  "plataformas": [
+    "PlayStation 2",
+    "Xbox",
+    "Nintendo GameCube",
+    "PC"
+  ],
+  "descripcion": "Tony Hawk's Underground 2 es un videojuego de deportes desarrollado por Neversoft y publicado por Activision. Es la sexta entrega de la serie Tony Hawk's Pro Skater y la segunda en la serie Underground. El juego cuenta con modos de un solo jugador y multijugador, y presenta una historia en la que el jugador viaja por todo el mundo para competir en diversos desafíos de skate. El juego también cuenta con nuevos trucos y habilidades que los jugadores pueden desbloquear a medida que avanzan en el juego.",
+  "precio": 39.99,
+  "fecha_lanzamiento": {
+    "$date": "2004-10-04T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e3b"
+  },
+  "titulo": "Super Mario Galaxy",
+  "desarrollador": {
+    "nombre": "Nintendo EAD",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Plataformas"
+  ],
+  "plataformas": [
+    "Wii"
+  ],
+  "descripcion": "Super Mario Galaxy es un juego de plataformas desarrollado por Nintendo EAD Tokyo y publicado por Nintendo para la consola Wii. Fue lanzado en 2007 y ha sido considerado uno de los mejores juegos de la consola. En el juego, los jugadores controlan a Mario mientras viaja por diferentes planetas, recolecta Power Stars y rescata a la Princesa Peach de las garras del villano Bowser. El juego utiliza la mecánica de gravedad cero y ofrece una jugabilidad innovadora y divertida.",
+  "precio": 49.99,
+  "fecha_lanzamiento": {
+    "$date": "2007-11-12T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e3c"
+  },
+  "titulo": "Super Mario Galaxy 2",
+  "desarrollador": {
+    "nombre": "Nintendo EAD",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Plataformas"
+  ],
+  "plataformas": [
+    "Wii"
+  ],
+  "descripcion": "Super Mario Galaxy 2 es un juego de plataformas desarrollado por Nintendo EAD Tokyo y publicado por Nintendo para la consola Wii. Fue lanzado en 2010 y es la secuela del exitoso Super Mario Galaxy. En el juego, los jugadores controlan a Mario mientras viaja por diferentes planetas, recolecta Power Stars y rescata a la Princesa Peach de las garras del villano Bowser. El juego cuenta con nuevos niveles y mecánicas de juego, así como nuevos power-ups y personajes. Al igual que su predecesor, el juego utiliza la mecánica de gravedad cero y ofrece una jugabilidad innovadora y divertida.",
+  "precio": 49.99,
+  "fecha_lanzamiento": {
+    "$date": "2010-05-23T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e3d"
+  },
+  "titulo": "The Elder Scrolls V: Skyrim",
+  "desarrollador": {
+    "nombre": "Bethesda Game Studios",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "RPG",
+    "Acción"
+  ],
+  "plataformas": [
+    "PC",
+    "Xbox 360",
+    "PlayStation 3",
+    "Nintendo Switch",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "descripcion": "Skyrim es un juego de rol de acción de mundo abierto desarrollado por Bethesda Game Studios. El juego tiene lugar en la provincia ficticia de Skyrim, donde el jugador asume el papel de un personaje que puede ser de cualquier raza o género. El juego presenta una amplia variedad de misiones principales y secundarias, que se completan en función de las elecciones del jugador y su estilo de juego. Skyrim también incluye un sistema de creación de personajes robusto y un extenso sistema de habilidades y progreso de personajes.",
+  "precio": 39.99,
+  "fecha_lanzamiento": {
+    "$date": "2011-11-11T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e3e"
+  },
+  "titulo": "Blasphemous",
+  "desarrollador": {
+    "nombre": "The Game Kitchen",
+    "pais": "España"
+  },
+  "genero": [
+    "Metroidvania",
+    "Acción"
+  ],
+  "plataformas": [
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "descripcion": "Blasphemous es un videojuego de acción y aventuras estilo metroidvania desarrollado por The Game Kitchen. Fue lanzado en 2019 para varias plataformas. El juego se desarrolla en el mundo de Cvstodia, un lugar oscuro y siniestro inspirado en la cultura española y la religión católica. El jugador toma el control de El Penitente, un guerrero en busca de la redención que debe luchar contra hordas de enemigos grotescos y enfrentar jefes desafiantes mientras explora un mundo interconectado lleno de secretos y peligros.",
+  "precio": 24.99,
+  "fecha_lanzamiento": {
+    "$date": "2019-09-10T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Español"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués",
+      "Ruso",
+      "Chino",
+      "Japonés"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e3f"
+  },
+  "titulo": "Hollow Knight",
+  "desarrollador": {
+    "nombre": "Team Cherry",
+    "pais": "Australia"
+  },
+  "genero": [
+    "Action-Adventure",
+    "Metroidvania"
+  ],
+  "plataformas": [
+    "Nintendo Switch",
+    "PC",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "descripcion": "Hollow Knight es un videojuego de acción-aventura de tipo metroidvania desarrollado por Team Cherry. El jugador controla a un caballero sin nombre que explora las ruinas de un antiguo reino de insectos subterráneo llamado Hallownest. El juego se centra en la exploración del mundo, la lucha contra enemigos y jefes, y la resolución de acertijos para avanzar en el juego. Hollow Knight es conocido por su diseño de niveles atmosférico, sus mecánicas de combate fluidas y sus personajes y enemigos únicos.",
+  "precio": 14.99,
+  "fecha_lanzamiento": {
+    "$date": "2017-02-24T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Español",
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués",
+      "Ruso",
+      "Chino",
+      "Japonés",
+      "Coreano"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e40"
+  },
+  "titulo": "Hollow Knight: Silksong",
+  "desarrollador": {
+    "nombre": "Team Cherry",
+    "pais": "Australia"
+  },
+  "genero": [
+    "Action-Adventure",
+    "Metroidvania"
+  ],
+  "plataformas": [
+    "Nintendo Switch",
+    "PC"
+  ],
+  "descripcion": "Hollow Knight: Silksong es el próximo videojuego de acción-aventura tipo metroidvania desarrollado por Team Cherry. El jugador controla a Hornet, un personaje que ya apareció en Hollow Knight, en una aventura por un nuevo reino. Silksong promete llevar la exploración, el combate y la historia a un nivel completamente nuevo, con nuevos personajes, enemigos, habilidades y mecánicas de juego.",
+  "precio": 24.99,
+  "fecha_lanzamiento": {
+    "$date": "2023-11-24T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Español",
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués",
+      "Ruso",
+      "Chino",
+      "Japonés",
+      "Coreano"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e41"
+  },
+  "titulo": "Crysis",
+  "desarrollador": {
+    "nombre": "Crytek",
+    "pais": "Alemania"
+  },
+  "genero": [
+    "Shooter en primera persona",
+    "Juego de acción"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "descripcion": "Crysis es un juego de disparos en primera persona desarrollado por Crytek y publicado por Electronic Arts en 2007. El juego tiene lugar en una isla ficticia en el archipiélago de Lingshan, cerca de Corea del Norte. El jugador asume el papel de un soldado de las fuerzas especiales que debe enfrentarse a una invasión alienígena mientras utiliza un traje especial que le da habilidades sobrehumanas. La jugabilidad se centra en la exploración, el combate y la estrategia, y el juego es conocido por sus impresionantes gráficos y efectos visuales.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2007-11-13T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Alemán",
+      "Francés",
+      "Italiano",
+      "Español"
+    ],
+    "textos": [
+      "Inglés",
+      "Alemán",
+      "Francés",
+      "Italiano",
+      "Español"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e42"
+  },
+  "titulo": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+  "desarrollador": {
+    "nombre": "GSC Game World",
+    "pais": "Ucrania"
+  },
+  "genero": [
+    "Acción",
+    "Survival Horror",
+    "FPS"
+  ],
+  "plataformas": [
+    "PC"
+  ],
+  "descripcion": "STALKER: Shadow of Chernobyl es un videojuego de acción y survival horror en primera persona ambientado en la zona de exclusión de Chernobyl en Ucrania. El juego sigue la historia de un agente que ha perdido la memoria y que está tratando de averiguar quién es y qué está sucediendo en la zona. La jugabilidad se centra en la exploración del mundo abierto, la lucha contra enemigos y la recolección de recursos.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2007-03-20T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Ucraniano"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Ucraniano",
+      "Ruso"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e43"
+  },
+  "titulo": "S.T.A.L.K.E.R. 2: Heart of Chernobyl",
+  "desarrollador": {
+    "nombre": "GSC Game World",
+    "pais": "Ucrania"
+  },
+  "genero": [
+    "Acción",
+    "FPS",
+    "Survival Horror"
+  ],
+  "plataformas": [
+    "PC",
+    "Xbox Series X"
+  ],
+  "descripcion": "STALKER 2 es un videojuego de disparos en primera persona de supervivencia en un mundo abierto, ambientado en la zona de exclusión de Chernóbil, donde los jugadores deben luchar contra criaturas mutantes y otros stalkers mientras buscan artefactos y recursos para sobrevivir. El juego presenta un sistema dinámico de clima y un ciclo día-noche que afecta a la jugabilidad y a las decisiones que toma el jugador. También cuenta con un sistema de elecciones y consecuencias que influyen en el desarrollo de la historia.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2024-05-15T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Ucraniano"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Ucraniano",
+      "Ruso"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e44"
+  },
+  "titulo": "Mass Effect",
+  "desarrollador": {
+    "nombre": "BioWare",
+    "pais": "Canadá"
+  },
+  "genero": [
+    "RPG",
+    "Acción"
+  ],
+  "plataformas": [
+    "Xbox 360",
+    "PC",
+    "PlayStation 3"
+  ],
+  "descripcion": "Mass Effect es un juego de rol de acción en tercera persona desarrollado por BioWare y publicado por Microsoft Game Studios. La trama sigue al comandante Shepard, un soldado de las Fuerzas Aliadas de la Tierra que debe investigar una invasión alienígena de la galaxia. El juego se enfoca en el sistema de diálogo para permitir que los jugadores tomen decisiones que afecten el resultado de la historia.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2007-11-20T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Francés",
+      "Español"
+    ],
+    "textos": [
+      "Inglés",
+      "Francés",
+      "Español"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e45"
+  },
+  "titulo": "Dead Space",
+  "desarrollador": {
+    "nombre": "Visceral Games",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Survival Horror"
+  ],
+  "plataformas": [
+    "Xbox 360",
+    "PlayStation 3",
+    "PC"
+  ],
+  "descripcion": "Dead Space es un videojuego de survival horror en tercera persona desarrollado por Visceral Games y publicado por Electronic Arts. Fue lanzado originalmente en 2008 y cuenta la historia del ingeniero Isaac Clarke, quien debe luchar contra hordas de monstruos alienígenas en una nave espacial abandonada. La jugabilidad se centra en la resolución de acertijos, la exploración y el combate, y utiliza un sistema de desmembramiento único para luchar contra los enemigos.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2008-10-14T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e46"
+  },
+  "titulo": "Nier: Automata",
+  "desarrollador": {
+    "nombre": "PlatinumGames",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "RPG"
+  ],
+  "plataformas": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "descripcion": "Nier: Automata es un videojuego de acción y rol desarrollado por PlatinumGames y publicado por Square Enix. El juego se desarrolla en un mundo postapocalíptico invadido por máquinas, donde los jugadores controlan a los androides 2B, 9S y A2, quienes luchan contra las máquinas en nombre de la humanidad. La jugabilidad combina elementos de acción en tiempo real y RPG, con énfasis en la personalización y la exploración. La historia del juego se desarrolla en varias ramas, con múltiples finales que dependen de las decisiones del jugador.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2017-02-23T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Japonés",
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e47"
+  },
+  "titulo": "Devil May Cry 5",
+  "desarrollador": {
+    "nombre": "Capcom",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "descripcion": "Devil May Cry 5 es un videojuego de acción y aventura desarrollado por Capcom. Fue lanzado en 2019 como una secuela directa de Devil May Cry 4 y continúa la historia de los cazadores de demonios Dante y Nero. El juego cuenta con una jugabilidad fluida y frenética que combina combos de espada y pistola, magia y habilidades especiales únicas de cada personaje. La trama se desarrolla en un mundo lleno de demonios y sigue la lucha de los protagonistas contra la invasión demoníaca. ",
+  "precio": 39.99,
+  "fecha_lanzamiento": {
+    "$date": "2019-03-08T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e48"
+  },
+  "titulo": "Signalis",
+  "desarrollador": {
+    "nombre": "Rose-Engine",
+    "pais": "Alemania"
+  },
+  "genero": [
+    "Survival horror"
+  ],
+  "plataformas": [
+    "PC",
+    "Nintendo Switch"
+  ],
+  "descripcion": "Signalis es un videojuego de aventuras de terror y ciencia ficción desarrollado por Rose City Games. El juego se desarrolla en un futuro distópico en el que la humanidad está al borde de la extinción y la tecnología ha llegado a un punto en el que es difícil distinguir lo real de lo virtual. El jugador toma el papel de Elster, una mujer cuyo mundo se desmorona a su alrededor cuando descubre que su hermano ha desaparecido en circunstancias misteriosas. Elster tendrá que explorar un mundo extraño y peligroso para descubrir la verdad detrás de la desaparición de su hermano.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2022-04-21T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Francés",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e49"
+  },
+  "titulo": "Elden Ring",
+  "desarrollador": {
+    "nombre": "FromSoftware",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "RPG"
+  ],
+  "plataformas": [
+    "PlayStation 5",
+    "Xbox Series X",
+    "PC"
+  ],
+  "descripcion": "Elden Ring es un videojuego de acción y rol desarrollado por FromSoftware en colaboración con George R. R. Martin. El juego se desarrolla en un mundo de fantasía oscuro y peligroso, en el que el jugador debe luchar contra enemigos desafiantes para descubrir los secretos del misterioso objeto conocido como el Anillo de Elden. La jugabilidad se centra en la exploración, el combate y la personalización del personaje, con elementos de multijugador en línea.",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2022-02-25T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e4a"
+  },
+  "titulo": "Sekiro: Shadows Die Twice",
+  "desarrollador": {
+    "nombre": "FromSoftware",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Aventura",
+    "Sigilo"
+  ],
+  "plataformas": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "descripcion": "Sekiro: Shadows Die Twice es un videojuego de acción y aventura desarrollado por FromSoftware. Se ambienta en el Japón feudal del siglo XVI y sigue la historia de un guerrero samurái conocido como 'El Lobo' que busca venganza contra un clan samurái que secuestró a su amo. El juego presenta un enfoque en la mecánica de sigilo y el combate de espadas, y utiliza un sistema de resurrección que permite a los jugadores revivir después de la muerte en la batalla. ",
+  "precio": 59.99,
+  "fecha_lanzamiento": {
+    "$date": "2019-03-22T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e4b"
+  },
+  "titulo": "Metal Gear Solid",
+  "desarrollador": {
+    "nombre": "Konami Computer Entertainment Japan",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Sigilo"
+  ],
+  "plataformas": [
+    "PlayStation",
+    "PC"
+  ],
+  "descripcion": "Metal Gear Solid es un videojuego de acción-aventura y sigilo desarrollado por Konami Computer Entertainment Japan. Fue lanzado originalmente en 1998 para la PlayStation y ha sido relanzado en varias plataformas desde entonces. El juego sigue al soldado retirado Solid Snake, quien es enviado en una misión para rescatar a rehenes en una instalación de armamento nuclear en Alaska. La jugabilidad se centra en la exploración, el sigilo y el combate, mientras los jugadores luchan contra soldados enemigos y jefes de fin de nivel para completar su misión.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "1998-09-03T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e4c"
+  },
+  "titulo": "Metal Gear Solid 2: Sons of Liberty",
+  "desarrollador": {
+    "nombre": "Konami Computer Entertainment Japan",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Sigilo"
+  ],
+  "plataformas": [
+    "PlayStation 2",
+    "Xbox",
+    "PC"
+  ],
+  "descripcion": "Metal Gear Solid 2: Sons of Liberty es un videojuego de acción-aventura y sigilo desarrollado por Konami Computer Entertainment Japan. Fue lanzado originalmente en 2001 para la PlayStation 2 y ha sido relanzado en varias plataformas desde entonces. El juego sigue al soldado Raiden, quien es enviado en una misión para infiltrarse en una plataforma petrolera en alta mar controlada por un grupo terrorista. La jugabilidad se centra en la exploración, el sigilo y el combate, mientras los jugadores luchan contra soldados enemigos y jefes de fin de nivel para completar su misión.",
+  "precio": 14.99,
+  "fecha_lanzamiento": {
+    "$date": "2001-11-12T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e4d"
+  },
+  "titulo": "Metal Gear Solid 3: Snake Eater",
+  "desarrollador": {
+    "nombre": "Konami Computer Entertainment Japan",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Sigilo"
+  ],
+  "plataformas": [
+    "PlayStation 2",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "descripcion": "Metal Gear Solid 3: Snake Eater es un juego de acción y sigilo desarrollado por Kojima Productions y publicado por Konami. Fue lanzado en 2004 para la PlayStation 2 y posteriormente relanzado en 2011 para la PlayStation 3 y Xbox 360. El juego se desarrolla en 1964 durante la Guerra Fría y sigue a Naked Snake, quien es enviado a la selva soviética para recuperar un arma nuclear robada y enfrentarse a su antiguo mentor, The Boss. La jugabilidad se centra en la exploración, el sigilo y el combate, y presenta un sistema de camuflaje y supervivencia que afecta la experiencia del jugador.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2004-11-17T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e4e"
+  },
+  "titulo": "Metal Gear Solid 4: Guns of the Patriots",
+  "desarrollador": {
+    "nombre": "Kojima Productions",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Sigilo"
+  ],
+  "plataformas": [
+    "PlayStation 3"
+  ],
+  "descripcion": "Metal Gear Solid 4: Guns of the Patriots es un juego de acción y sigilo desarrollado por Kojima Productions y publicado por Konami. Fue lanzado en 2008 exclusivamente para la PlayStation 3. El juego tiene lugar en 2014 y sigue a Solid Snake, quien es enviado a Oriente Medio para detener a su antiguo amigo y enemigo, Liquid Ocelot. La jugabilidad se centra en el sigilo y la acción, y presenta una variedad de armas y gadgets que el jugador puede usar para completar los objetivos.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2008-06-12T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e4f"
+  },
+  "titulo": "Metal Gear Solid V: The Phantom Pain",
+  "desarrollador": {
+    "nombre": "Kojima Productions",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Sigilo"
+  ],
+  "plataformas": [
+    "PlayStation 3",
+    "PlayStation 4",
+    "Xbox 360",
+    "Xbox One",
+    "PC"
+  ],
+  "descripcion": "Metal Gear Solid V: The Phantom Pain es un videojuego de acción-aventura y sigilo desarrollado por Kojima Productions y publicado por Konami. Es la quinta entrega principal de la serie Metal Gear Solid. La historia se desarrolla en 1984 y sigue al personaje principal, Big Boss, mientras lidera una unidad de fuerzas especiales en una misión para vengarse de aquellos que lo traicionaron en el pasado y construir su propia nación militar en África. La jugabilidad combina el sigilo con la acción en un mundo abierto.",
+  "precio": 29.99,
+  "fecha_lanzamiento": {
+    "$date": "2015-09-01T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e50"
+  },
+  "titulo": "Metal Gear Solid: Peace Walker",
+  "desarrollador": {
+    "nombre": "Kojima Productions",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Acción",
+    "Sigilo"
+  ],
+  "plataformas": [
+    "PlayStation Portable",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "descripcion": "Metal Gear Solid: Peace Walker es un videojuego de acción-aventura y sigilo desarrollado por Kojima Productions y publicado por Konami. Es la octava entrega de la serie Metal Gear y fue lanzado originalmente para la PlayStation Portable en 2010. La historia se desarrolla en 1974 y sigue al personaje principal, Naked Snake (también conocido como Big Boss), mientras lidera una unidad de mercenarios en América Latina para defender la paz y luchar contra la amenaza nuclear. La jugabilidad combina elementos de sigilo y acción en un mundo semiabierto y cuenta con modo multijugador.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2010-04-29T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e51"
+  },
+  "titulo": "Half-Life",
+  "desarrollador": {
+    "nombre": "Valve Corporation",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "FPS",
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 2"
+  ],
+  "descripcion": "Half-Life es un videojuego de disparos en primera persona desarrollado por Valve Corporation. Fue lanzado en 1998 para PC y PlayStation 2. El jugador asume el papel de Gordon Freeman, un científico que se ve atrapado en un experimento fallido en una instalación de investigación secreta. La jugabilidad se centra en la resolución de acertijos y la lucha contra enemigos, con una trama que involucra conspiraciones gubernamentales y extraterrestres.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "1998-11-19T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e52"
+  },
+  "titulo": "Half-Life 2",
+  "desarrollador": {
+    "nombre": "Valve Corporation",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "FPS",
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PC",
+    "Xbox",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "descripcion": "Half-Life 2 es un videojuego de disparos en primera persona desarrollado por Valve Corporation. Fue lanzado en 2004 para PC y más tarde para consolas. El jugador asume el papel de Gordon Freeman, un físico teórico que lidera la resistencia humana contra la Alianza, una raza alienígena que ha conquistado la Tierra. La jugabilidad se centra en el uso de armas y herramientas, así como en la resolución de acertijos y la exploración del entorno. La trama también explora temas de conspiración y revolución.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2004-11-16T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador",
+    "Multijugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e53"
+  },
+  "titulo": "Shadow of the Colossus",
+  "desarrollador": {
+    "nombre": "Team Ico",
+    "pais": "Japón"
+  },
+  "genero": [
+    "Aventura",
+    "Acción"
+  ],
+  "plataformas": [
+    "PlayStation 2",
+    "PlayStation 3"
+  ],
+  "descripcion": "Shadow of the Colossus es un videojuego de acción y aventura desarrollado por Team Ico y publicado por Sony Computer Entertainment. El jugador controla a un joven llamado Wander que viaja a caballo a través de un vasto paisaje para encontrar y derrotar a 16 colosos con el fin de revivir a una chica llamada Mono. El juego se centra en la exploración y el combate contra los colosos, cada uno de los cuales presenta un desafío único que el jugador debe superar. Shadow of the Colossus es conocido por su atmósfera impresionante, su hermoso diseño de mundo abierto y su narrativa minimalista y emotiva.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2005-10-18T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e54"
+  },
+  "titulo": "Stray",
+  "desarrollador": {
+    "nombre": "BlueTwelve Studio",
+    "pais": "Francia"
+  },
+  "genero": [
+    "Aventura",
+    "Puzzle"
+  ],
+  "plataformas": [
+    "PlayStation 5",
+    "PC"
+  ],
+  "descripcion": "Stray es un juego de aventura y puzzle en el que los jugadores toman el control de un gato callejero que debe navegar por una ciudad futurista poblada por robots. El gato está equipado con un dron que le ayuda a explorar y resolver acertijos, así como interactuar con otros personajes en el juego. El objetivo principal del juego es descubrir la verdad detrás de la ciudad y cómo el gato llegó allí en primer lugar.",
+  "precio": 49.99,
+  "fecha_lanzamiento": {
+    "$date": "2022-02-22T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Francés"
+    ],
+    "textos": [
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Español"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e55"
+  },
+  "titulo": "Tunic",
+  "desarrollador": {
+    "nombre": "Andrew Shouldice",
+    "pais": "Canadá"
+  },
+  "genero": [
+    "Acción",
+    "Aventura"
+  ],
+  "plataformas": [
+    "Windows",
+    "Xbox One",
+    "Xbox Series X"
+  ],
+  "descripcion": "Tunic es un videojuego de acción y aventura desarrollado por Andrew Shouldice y publicado por Finji. El juego sigue a un pequeño zorro que explora un mundo misterioso lleno de peligros y descubre secretos antiguos. La jugabilidad se centra en la exploración, la resolución de acertijos y el combate, mientras el jugador avanza a través de un mundo bello y fascinante.",
+  "precio": 24.99,
+  "fecha_lanzamiento": {
+    "$date": "2022-03-16T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Español",
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Portugués"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e56"
+  },
+  "titulo": "The Vanishing of Ethan Carter",
+  "desarrollador": {
+    "nombre": "The Astronauts",
+    "pais": "Polonia"
+  },
+  "genero": [
+    "Aventura",
+    "Misterio"
+  ],
+  "plataformas": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "descripcion": "The Vanishing of Ethan Carter es un juego de aventura y misterio en primera persona, desarrollado por The Astronauts. En el juego, los jugadores asumen el papel del detective Paul Prospero, que investiga la desaparición del joven Ethan Carter en la ficticia Red Creek Valley. A medida que se adentra en el valle, Paul descubre una serie de asesinatos que tienen lugar en la zona y que parecen estar relacionados con la desaparición de Ethan.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2014-09-25T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e57"
+  },
+  "titulo": "Papers, Please",
+  "desarrollador": {
+    "nombre": "Lucas Pope",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Simulación",
+    "Puzzle"
+  ],
+  "plataformas": [
+    "PC",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "PlayStation Vita"
+  ],
+  "descripcion": "Papers, Please es un videojuego de simulación y aventura desarrollado por Lucas Pope. El juego se desarrolla en el ficticio país comunista de Arstotzka en el año 1982, donde el jugador asume el papel de un inspector de inmigración en la frontera. El objetivo del juego es revisar la documentación de los inmigrantes y decidir si se les permite entrar o no en el país. A medida que el juego avanza, se presentan situaciones más complicadas y el jugador debe equilibrar las necesidades de su familia con las demandas del trabajo.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "2013-08-08T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Polaco",
+      "Portugués",
+      "Ruso"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e58"
+  },
+  "titulo": "Return of the Obra Dinn",
+  "desarrollador": {
+    "nombre": "Lucas Pope",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Puzzle",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PC",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "descripcion": "Return of the Obra Dinn es un videojuego de misterio y puzzle desarrollado por Lucas Pope. El juego te sitúa en el papel de un inspector de seguros que debe investigar el misterioso retorno del barco Obra Dinn, que había desaparecido en alta mar varios años atrás. A través de una combinación única de gráficos en blanco y negro y mecánicas de juego ingeniosas, los jugadores deben explorar el barco y descubrir la verdad detrás de la desaparición de la tripulación.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2018-10-18T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Español",
+      "Ruso",
+      "Portugués"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e59"
+  },
+  "titulo": "Super Meat Boy",
+  "desarrollador": {
+    "nombre": "Team Meat",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Plataformas"
+  ],
+  "plataformas": [
+    "PC",
+    "Xbox 360",
+    "PlayStation 4",
+    "Nintendo Switch"
+  ],
+  "descripcion": "Super Meat Boy es un juego de plataformas en el que los jugadores controlan a Meat Boy, un personaje hecho de carne que debe rescatar a su novia, Bandage Girl, de las garras del malvado Dr. Fetus. Los jugadores deben superar una serie de niveles llenos de trampas y obstáculos, evitando peligros como sierras circulares y pilas de sal.",
+  "precio": 14.99,
+  "fecha_lanzamiento": {
+    "$date": "2010-10-20T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e5a"
+  },
+  "titulo": "Sifu",
+  "desarrollador": {
+    "nombre": "Sloclap",
+    "pais": "Francia"
+  },
+  "genero": [
+    "Acción"
+  ],
+  "plataformas": [
+    "PlayStation 4",
+    "PlayStation 5",
+    "PC"
+  ],
+  "descripcion": "Sifu es un juego de lucha en el que los jugadores controlan a un estudiante de artes marciales que busca venganza contra una organización criminal. Los jugadores deben viajar a través de diferentes ubicaciones y enfrentarse a diversos enemigos utilizando una variedad de técnicas de combate cuerpo a cuerpo.",
+  "precio": 39.99,
+  "fecha_lanzamiento": {
+    "$date": "2022-02-22T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Chino"
+    ],
+    "textos": [
+      "Inglés",
+      "Francés",
+      "Alemán",
+      "Español",
+      "Italiano",
+      "Chino"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e5b"
+  },
+  "titulo": "Neon White",
+  "desarrollador": {
+    "nombre": "Ben Esposito",
+    "pais": "Estados Unidos"
+  },
+  "genero": [
+    "Acción",
+    "Plataformas"
+  ],
+  "plataformas": [
+    "Nintendo Switch",
+    "PC"
+  ],
+  "descripcion": "Neon White es un juego de acción y plataformas en el que los jugadores controlan a White, un asesino celestial enviado al purgatorio para derrotar a demonios y salvar a los pecadores. Los jugadores pueden usar cartas para invocar armas y habilidades especiales y correr, saltar y luchar a través de niveles vertiginosos llenos de enemigos y peligros.",
+  "precio": 19.99,
+  "fecha_lanzamiento": {
+    "$date": "2021-02-25T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Alemán",
+      "Italiano",
+      "Japonés"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e5c"
+  },
+  "titulo": "VVVVVV",
+  "desarrollador": {
+    "nombre": "Terry Cavanagh",
+    "pais": "Irlanda"
+  },
+  "genero": [
+    "Plataformas"
+  ],
+  "plataformas": [
+    "PC",
+    "Nintendo Switch",
+    "Nintendo 3DS"
+  ],
+  "descripcion": "VVVVVV es un juego de plataformas en el que los jugadores controlan a Captain Viridian, un personaje que debe rescatar a su tripulación de una nave espacial atrapada en una dimensión paralela. A través de una serie de niveles, los jugadores deben saltar, esquivar y cambiar la gravedad para superar obstáculos y encontrar a los miembros de la tripulación.",
+  "precio": 4.99,
+  "fecha_lanzamiento": {
+    "$date": "2010-01-11T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": null,
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Portugués",
+      "Japonés",
+      "Coreano",
+      "Chino simplificado",
+      "Chino tradicional"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e5d"
+  },
+  "titulo": "Momodora: Reverie Under the Moonlight",
+  "desarrollador": {
+    "nombre": "Bombservice",
+    "pais": "Brasil"
+  },
+  "genero": [
+    "Plataformas",
+    "Aventura"
+  ],
+  "plataformas": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Nintendo Switch"
+  ],
+  "descripcion": "Momodora: Reverie Under the Moonlight es un juego de plataformas de acción 2D con elementos de RPG y una historia con personajes complejos. Los jugadores controlan a Kaho, una sacerdotisa que debe luchar para salvar a su pueblo de la maldición que ha caído sobre él. Los jugadores exploran una ciudad en ruinas, luchando contra enemigos y jefes mientras descubren la historia detrás de la maldición.",
+  "precio": 9.99,
+  "fecha_lanzamiento": {
+    "$date": "2016-03-04T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés",
+      "Japonés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Portugués"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+},{
+  "_id": {
+    "$oid": "64328ee07a42c4abf6165e5e"
+  },
+  "titulo": "Disco Elysium",
+  "desarrollador": {
+    "nombre": "ZA/UM",
+    "pais": "Estonia"
+  },
+  "genero": [
+    "RPG"
+  ],
+  "plataformas": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Nintendo Switch",
+    "Xbox One",
+    "Xbox Series X"
+  ],
+  "descripcion": "Disco Elysium es un juego de rol y aventuras en el que los jugadores toman el control de un detective en un mundo de fantasía. El jugador debe investigar un asesinato mientras lucha contra su propia adicción al alcohol y se enfrenta a su pasado traumático. El juego tiene lugar en la ciudad de Revachol, una ciudad que ha sido destruida por la guerra y la revolución, y los jugadores pueden explorar sus diferentes barrios y hablar con sus habitantes para obtener pistas sobre el caso.",
+  "precio": 39.99,
+  "fecha_lanzamiento": {
+    "$date": "2019-10-15T00:00:00.000Z"
+  },
+  "idioma": {
+    "audio": [
+      "Inglés"
+    ],
+    "textos": [
+      "Inglés",
+      "Español",
+      "Francés",
+      "Italiano",
+      "Alemán",
+      "Ruso",
+      "Polaco",
+      "Portugués"
+    ]
+  },
+  "modos_juego": [
+    "Un jugador"
+  ]
+}]

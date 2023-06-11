@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6432afb97a42c4abf6165e63"
+  },
+  "nombre": "Metallica",
+  "generos": [
+    "Thash metal",
+    "Heavy metal"
+  ],
+  "origen": "Estados Unidos",
+  "albumes": [
+    {
+      "$oid": "6432b5657a42c4abf6165e6f"
+    },
+    {
+      "$oid": "6432b08b7a42c4abf6165e65"
+    },
+    {
+      "$oid": "6432b0927a42c4abf6165e66"
+    },
+    {
+      "$oid": "6432b0997a42c4abf6165e67"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432ff45ea0398876f3b8fff"
+  },
+  "nombre": "Refused",
+  "generos": [
+    "Hardcore punk",
+    "Post-hardcore",
+    "Experimental rock"
+  ],
+  "origen": "Suecia",
+  "albumes": [
+    {
+      "$oid": "6432fefeea0398876f3b8ffa"
+    },
+    {
+      "$oid": "6432fefeea0398876f3b8ff9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432ff45ea0398876f3b9000"
+  },
+  "nombre": "Enslaved",
+  "generos": [
+    "Black metal",
+    "Viking metal",
+    "Progressive metal"
+  ],
+  "origen": "Noruega",
+  "albumes": [
+    {
+      "$oid": "6432fefeea0398876f3b8ffb"
+    },
+    {
+      "$oid": "6432fefeea0398876f3b8ffc"
+    },
+    {
+      "$oid": "6432fefeea0398876f3b8ffd"
+    }
+  ]
+}]

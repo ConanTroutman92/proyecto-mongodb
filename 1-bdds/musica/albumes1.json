@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "6432b5657a42c4abf6165e6f"
+  },
+  "titulo": "Kill 'Em All",
+  "artista_id": {
+    "$oid": "6432afb97a42c4abf6165e63"
+  },
+  "anio": 1983,
+  "genero": [
+    "Thrash metal"
+  ],
+  "canciones": [
+    {
+      "titulo": "Hit the Lights",
+      "duracion": "51:08",
+      "numero": 1
+    },
+    {
+      "titulo": "The Four Horsemen",
+      "duracion": "7:13",
+      "numero": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432fefeea0398876f3b8ff6"
+  },
+  "titulo": "Ride the Lightning",
+  "artista_id": {
+    "$oid": "6432afb97a42c4abf6165e63"
+  },
+  "anio": 1984,
+  "genero": [
+    "Thrash metal"
+  ],
+  "canciones": [
+    {
+      "titulo": "Fight Fire with Fire",
+      "duracion": "4:45",
+      "numero": 1
+    },
+    {
+      "titulo": "Ride the Lightning",
+      "duracion": "6:36",
+      "numero": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432fefeea0398876f3b8ff7"
+  },
+  "titulo": "Master of Puppets",
+  "artista_id": {
+    "$oid": "6432afb97a42c4abf6165e63"
+  },
+  "anio": 1986,
+  "genero": [
+    "Thrash metal"
+  ],
+  "canciones": [
+    {
+      "titulo": "Battery",
+      "duracion": "5:12",
+      "numero": 1
+    },
+    {
+      "titulo": "Master of Puppets",
+      "duracion": "8:36",
+      "numero": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432fefeea0398876f3b8ff8"
+  },
+  "titulo": "...And Justice for All",
+  "artista_id": {
+    "$oid": "6432afb97a42c4abf6165e63"
+  },
+  "anio": 1988,
+  "genero": [
+    "Thrash metal"
+  ],
+  "canciones": [
+    {
+      "titulo": "Blackened",
+      "duracion": "6:40",
+      "numero": 1
+    },
+    {
+      "titulo": "...And Justice for All",
+      "duracion": "9:44",
+      "numero": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432fefeea0398876f3b8ff9"
+  },
+  "titulo": "The Shape of Punk to Come",
+  "artista_id": {
+    "$oid": "6432ff45ea0398876f3b8fff"
+  },
+  "anio": 1998,
+  "genero": [
+    "Post-hardcore",
+    "Experimental rock",
+    "Hardcore punk"
+  ],
+  "canciones": [
+    {
+      "titulo": "Worms of the Senses / Faculties of the Skull",
+      "duracion": "1:03",
+      "numero": 1
+    },
+    {
+      "titulo": "Liberation Frequency",
+      "duracion": "4:06",
+      "numero": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432fefeea0398876f3b8ffa"
+  },
+  "titulo": "Songs to Fan the Flames of Discontent",
+  "artista_id": {
+    "$oid": "6432ff45ea0398876f3b8fff"
+  },
+  "anio": 1996,
+  "genero": [
+    "Hardcore punk"
+  ],
+  "canciones": [
+    {
+      "titulo": "Rather Be Dead",
+      "duracion": "3:25",
+      "numero": 1
+    },
+    {
+      "titulo": "Summerholidays vs. Punkroutine",
+      "duracion": "4:00",
+      "numero": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432fefeea0398876f3b8ffb"
+  },
+  "titulo": "In Times",
+  "artista_id": {
+    "$oid": "6432ff45ea0398876f3b9000"
+  },
+  "anio": 2015,
+  "genero": [
+    "Black metal",
+    "Progressive metal"
+  ],
+  "canciones": [
+    {
+      "titulo": "Thurisaz Dreaming",
+      "duracion": "7:49",
+      "numero": 1
+    },
+    {
+      "titulo": "Building with Fire",
+      "duracion": "8:41",
+      "numero": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432fefeea0398876f3b8ffc"
+  },
+  "titulo": "E",
+  "artista_id": {
+    "$oid": "6432ff45ea0398876f3b9000"
+  },
+  "anio": 2017,
+  "genero": [
+    "Progressive metal",
+    "Black metal"
+  ],
+  "canciones": [
+    {
+      "titulo": "Storm Son",
+      "duracion": "10:54",
+      "numero": 1
+    },
+    {
+      "titulo": "The River's Mouth",
+      "duracion": "5:12",
+      "numero": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6432fefeea0398876f3b8ffd"
+  },
+  "titulo": "Utgard",
+  "artista_id": {
+    "$oid": "6432ff45ea0398876f3b9000"
+  },
+  "anio": 2020,
+  "genero": [
+    "Black metal",
+    "Progressive metal"
+  ],
+  "canciones": [
+    {
+      "titulo": "Fires in the Dark",
+      "duracion": "5:57",
+      "numero": 1
+    },
+    {
+      "titulo": "Jettegryta",
+      "duracion": "4:56",
+      "numero": 2
+    }
+  ]
+}]

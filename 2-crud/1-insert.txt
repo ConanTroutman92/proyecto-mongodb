@@ -1,0 +1,19 @@
+db.juegosp1.insertMany([{
+  "titulo": "Portal 2",
+  "desarrollador": {
+    "nombre": "Valve Corporation",
+    "pais": "Estados Unidos"
+  },
+  "genero": ["Puzzle", "Plataformas"],
+  "plataformas": ["PC", "PlayStation 3", "Xbox 360"],
+  "descripcion": "Portal 2 es un videojuego de puzzle y plataformas en primera persona desarrollado y publicado por Valve Corporation. Es la secuela de Portal y continúa la historia de Chell, quien debe enfrentarse a GLaDOS y Wheatley mientras resuelve puzzles usando un dispositivo de portales.",
+  "precio": 19.99,
+  "fecha_lanzamiento": ISODate("2011-04-19T00:00:00Z"),
+  "idioma": {
+    "audio": ["Inglés", "Español", "Francés", "Alemán", "Italiano", "Ruso", "Japonés", "Coreano", "Polaco", "Portugués"],
+    "textos": ["Inglés", "Español", "Francés", "Alemán", "Italiano", "Ruso", "Japonés", "Coreano", "Polaco", "Portugués"]
+  },
+  "modos_juego": ["Un jugador", "Multijugador"]
+}])
+
+
