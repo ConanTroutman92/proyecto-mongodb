@@ -1,0 +1,127 @@
+CREATE:
+
+
+1. Añadir Portal 2 a la base de datos:
+
+db.juegosp1.insert([{
+  "titulo": "Portal 2",
+  "desarrollador": {
+    "nombre": "Valve Corporation",
+    "pais": "Estados Unidos"
+  },
+  "genero": ["Puzzle", "Plataformas"],
+  "plataformas": ["PC", "PlayStation 3", "Xbox 360"],
+  "descripcion": "Portal 2 es un videojuego de puzzle y plataformas en primera persona desarrollado y publicado por Valve Corporation. Es la secuela de Portal y continúa la historia de Chell, quien debe enfrentarse a GLaDOS y Wheatley mientras resuelve puzzles usando un dispositivo de portales.",
+  "precio": 19.99,
+  "fecha_lanzamiento": ISODate("2011-04-19T00:00:00Z"),
+  "idioma": {
+    "audio": ["Inglés", "Español", "Francés", "Alemán", "Italiano", "Ruso", "Japonés", "Coreano", "Polaco", "Portugués"],
+    "textos": ["Inglés", "Español", "Francés", "Alemán", "Italiano", "Ruso", "Japonés", "Coreano", "Polaco", "Portugués"]
+  },
+  "modos_juego": ["Un jugador", "Multijugador"]
+}])
+
+-----------------------
+---------------------------
+--------------------------------
+-----------------------------------
+-----------------------------------------
+
+
+READ:
+
+1. Datos del videojuego "Portal 2":
+
+db.juegosp1.find({titulo: "Portal 2"})
+-----------------------------------------------
+
+
+2. Obtener todos los juegos desarrollados por "FromSoftware" y que estén disponibles para la plataforma "PlayStation 4", con un precio igual o mayor a 50 y un solo modo de juego:
+
+db.juegosp1.find({ 
+  "desarrollador.nombre": "FromSoftware", 
+  "plataformas": "PlayStation 4" , 
+  "precio": { $gte: 50 }, 
+  modos_juego: {$size:1}
+})
+-----------------------------------------------
+
+
+3. Precio promedio de los juegos lanzados entre el 1 de enero de 2020 y el 31 de diciembre de 2022, cuya descripción contenga la palabra "aventura" y que estén disponibles en las plataformas "PlayStation 4" o "PC".
+
+db.juegosp1.aggregate([
+  {
+    $match: {
+      $and: [
+        { fecha_lanzamiento: { $gte: ISODate("2020-01-01"), $lte: ISODate("2022-12-31") } },
+        { descripcion: { $regex: /aventura/i } },
+        { plataformas: { $in: ["PlayStation 4", "PC"] } }
+      ]
+    }
+  },
+  {
+    $group: {
+      _id: null,
+      precioPromedio: { $avg: "$precio" }
+    }
+  }
+])
+-------------------------------------------------
+
+
+4. Muestra la información de los álbumes junto con la de su respectivo artista, para los artistas del genero “Hardcore punk”:
+
+db.albumes.aggregate([
+  { $lookup: {
+      from: "artistas",
+      localField: "artista_id",
+      foreignField: "_id",
+      as: "info_artista"
+    }
+  },
+  { $unwind: "$info_artista" },
+  { $match: { "info_artista.generos": "Hardcore punk" } }
+])
+
+----------------------------
+------------------------------------
+----------------------------------------
+-------------------------------------------
+------------------------------------------------
+
+
+UPDATE:
+
+1. Multiplicar el precio de todos los juegos desarrollados por Nintendo EPD en un 10% (multiplicar por 1.1)
+db.juegosp1.updateMany(
+  { "desarrollador.nombre": "Nintendo EPD" },
+  { $mul: { precio: 1.1 } }
+)
+------------------------------------------
+
+2. Añadir una nueva plataforma al juego Portal 2:
+db.juegosp1.updateOne(
+  { titulo: "Portal 2" },
+  { $push: { plataformas: "PlayStation 5" } }
+)
+
+----------------------------
+------------------------------------
+----------------------------------------
+-------------------------------------------
+------------------------------------------------
+
+DELETE:
+
+1. Eliminar el juego The Last of Us:
+db.juegosp1.deleteOne({titulo: "The Last of Us"})
+
+----------------------------------
+3. Eliminar todos los juegos con un precio menor a 10:
+db.juegosp1.deleteMany({precio: {$lt: 10}})
+
+----------------------------
+------------------------------------
+----------------------------------------
+-------------------------------------------
+------------------------------------------------

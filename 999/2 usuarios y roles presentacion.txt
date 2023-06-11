@@ -1,0 +1,29 @@
+1. Crear usuario que solo pueda leer juegos
+
+use admin
+
+db.createUser({
+  user: "prueba",
+  pwd: "1234",
+  roles: [{ role: "read", db: "juegosp1" }]
+})
+---------------------------------------
+
+2. Dar nuevo permiso al usuario anterior para escribir en musicap1
+db.grantRolesToUser(
+  "prueba",
+  [
+    { role: "readWrite", db: "musicap1" }
+  ]
+)
+-----------------------------------------
+
+4. Eliminar rol "read" en "juegosp1" del usuario
+db.revokeRolesFromUser(
+  "prueba",
+  [
+    { role: "read", db: "juegosp1" }
+  ]
+)
+
+
