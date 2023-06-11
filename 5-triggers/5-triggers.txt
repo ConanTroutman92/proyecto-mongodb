@@ -1,16 +1,4 @@
-exports = function (event) {
-  const insertedDoc = event.fullDocument;
-  const releaseDate = new Date(insertedDoc.fecha_lanzamiento);
-  const cutoffDate = new Date("1950-01-01T00:00:00Z");
-
-  if (releaseDate < cutoffDate) {
-    throw new Error("No se permiten juegos con fecha de lanzamiento anterior a 1950");
-  }
-};
-
-
-
-
+1. Trigger que genera un aviso en el log al insertar un juego anterior a 1950.
 exports = function (event) {
 const insertedDoc = event.fullDocument;
 const releaseDate = new Date(insertedDoc.fecha_lanzamiento);
@@ -25,16 +13,35 @@ console.warn("ADVERTENCIA: Se ha insertado un juego con fecha de lanzamiento ant
 
 
 db.juegosp1.insertMany([{
-  "titulo": "Portal -8",
+  "titulo": "prueba1949",
   "desarrollador": {
-    "nombre": "Valve Corporation",
-    "pais": "Estados Unidos"
+    "nombre": "1949",
+    "pais": "1949"
   },
   "genero": ["Puzzle", "Plataformas"],
   "plataformas": ["PC", "PlayStation 3", "Xbox 360"],
-  "descripcion": "Portal 2 es un videojuego de puzzle y plataformas en primera persona desarrollado y publicado por Valve Corporation. Es la secuela de Portal y continúa la historia de Chell, quien debe enfrentarse a GLaDOS y Wheatley mientras resuelve puzzles usando un dispositivo de portales.",
-  "precio": 19.99,
-  "fecha_lanzamiento": ISODate("1233-04-19T00:00:00Z"),
+  "descripcion": "1949",
+  "precio": 1949,
+  "fecha_lanzamiento": ISODate("1949-04-19T00:00:00Z"),
+  "idioma": {
+    "audio": ["Inglés", "Español", "Francés", "Alemán", "Italiano", "Ruso", "Japonés", "Coreano", "Polaco", "Portugués"],
+    "textos": ["Inglés", "Español", "Francés", "Alemán", "Italiano", "Ruso", "Japonés", "Coreano", "Polaco", "Portugués"]
+  },
+  "modos_juego": ["Un jugador", "Multijugador"]
+}])
+
+
+db.juegosp1.insertMany([{
+  "titulo": "prueba1950",
+  "desarrollador": {
+    "nombre": "1950",
+    "pais": "1950"
+  },
+  "genero": ["Puzzle", "Plataformas"],
+  "plataformas": ["PC", "PlayStation 3", "Xbox 360"],
+  "descripcion": "1950",
+  "precio": 1950,
+  "fecha_lanzamiento": ISODate("1950-04-19T00:00:00Z"),
   "idioma": {
     "audio": ["Inglés", "Español", "Francés", "Alemán", "Italiano", "Ruso", "Japonés", "Coreano", "Polaco", "Portugués"],
     "textos": ["Inglés", "Español", "Francés", "Alemán", "Italiano", "Ruso", "Japonés", "Coreano", "Polaco", "Portugués"]
